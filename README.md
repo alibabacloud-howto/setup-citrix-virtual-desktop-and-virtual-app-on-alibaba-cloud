@@ -1,13 +1,13 @@
 # Setup Citrix Virtual Desktop and Virtual App on Alibaba Cloud
 
 ## Summary
-0. [Introduction](#introduction)
-1. [Prerequisite](#prerequisite)
-2. [System Architecture](#system-architecture)
-3. [Cloud Resources](#cloud-resources)
-4. [Step by Step Approach](#step-by-step-approach)
-5. [Conclusion](#conclusion)
-6. [Support](#support)
+1. [Introduction](#introduction)
+2. [Prerequisite](#prerequisite)
+3. [System Architecture](#system-architecture)
+4. [Cloud Resources](#cloud-resources)
+5. [Step by Step Approach](#step-by-step-approach)
+6. [Conclusion](#conclusion)
+7. [Support](#support)
 
 ## Introduction
 Citrix Virtual Apps and Desktops are virtualization solutions which deliver virtual apps and virtual Windows or Linux desktops. This document is a step-by-step guide for deploying a demo environment of Citrix Virtual Desktop and Virtual App on Alibaba Cloud.
